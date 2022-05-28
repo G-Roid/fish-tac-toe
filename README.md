@@ -16,7 +16,7 @@ Project which focuses on separations of concerns. The HTML, CSS and JS are conta
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skillsjs-square.svg" height="50px">
+	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skills/js-square.svg" height="50px">
 	&nbsp&nbsp&nbsp
 	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skills/css3-alt.svg" height="50px">
 	&nbsp&nbsp&nbsp
