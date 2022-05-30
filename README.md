@@ -1,6 +1,6 @@
-<h1 align="center">Fish Tac Toe| <a href="https://g-roid.github.io/tick-tac-toe/">Visit here!</a></h1>
+<h1 align="center">Fish Tac Toe| <a href="https://g-roid.github.io/fish-tac-toe/">Visit here!</a></h1>
 <div align="center">
-  <a href='#'>
+  <a href='https://g-roid.github.io/fish-tac-toe/'>
 	  <img src="fish-tac-toe.gif" width="100%" />
   </a>
 </div>
