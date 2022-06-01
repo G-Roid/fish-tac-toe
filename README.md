@@ -11,7 +11,7 @@
 
 ## How It's Made:
 **Tech used:** HTML, CSS, and JavaScript
-Project which focuses on separations of concerns. The HTML, CSS and JS are contain within individual files to ensure the game is maintainable. Initially, the smaller component objects were tested individually and then combined into a single Game object. Lastly, the game was linked to a UI by including event listeners onto each grid element.
+This project which focuses on separations of concerns. The HTML, CSS and JS are contain within individual files to ensure the game is maintainable. Initially, the smaller component objects were tested individually and then combined into a single Game object. Lastly, the game was linked to a UI by including event listeners onto each grid element.
 
 <h2 align="center">Techs used:</h2>
 <br>
